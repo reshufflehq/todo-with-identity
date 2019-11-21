@@ -5,5 +5,5 @@ This app have a friendly user experience with instant visual updates that connec
 Build with React and Reshuffle platform.
 
 <p>
-  <img src="./app-screen.png" width="80%" height="80%">
+  <img src="./app-screen.png" width="50%" height="50%">
 </p>
