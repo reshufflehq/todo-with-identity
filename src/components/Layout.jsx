@@ -34,11 +34,11 @@ export default function Main() {
           Todo Demo
         </a>
         <div id="navbarText">
-          <ul className="navbar-nav mr-auto" />
+          <ul className="navbar-nav mr-auto " />
           {authenticated ? (
             <div className="dropdown">
               <button
-                className="btn btn-primary dropdown-toggle"
+                className="btn btn-primary dropdown-toggle "
                 type="button"
                 id="dropdownMenuButton"
                 data-toggle="dropdown"
@@ -48,7 +48,7 @@ export default function Main() {
                 {profile.displayName}
               </button>
               <div
-                className="dropdown-menu"
+                className="dropdown-menu dropdown-menu-right"
                 aria-labelledby="dropdownMenuButton"
               >
                 <a className="dropdown-item" href={getLogoutURL()}>
