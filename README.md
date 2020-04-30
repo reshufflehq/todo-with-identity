@@ -1,3 +1,5 @@
+# We have terminated the backend for this project.  Old Reshuffle projects can no longer be deployed.
+
 ## Description
 
 Simple ToDo application , ToDo lets you create new tasks and delete then when the task is done.
